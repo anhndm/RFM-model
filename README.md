@@ -60,8 +60,8 @@ MEASURE : A well clustered customer basen on basic data that we have.
 | Cluster| Recency | Frequency | Monetary | Value |
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 0   | Low |Low |Low |Low value customers |
-| 0   | Low |High|High |High value customers |
-| 0   | High |Low |Low |Mid value customers |
+| 1   | Low |High|High |High value customers |
+| 2   | High |Low |Low |Mid value customers |
 ## Customer Lifetime Value
 Retention by Monthly Cohorts
 ![output11](https://user-images.githubusercontent.com/92135945/203560024-d3430742-603b-4fbe-a401-a412c5bd3895.png)
